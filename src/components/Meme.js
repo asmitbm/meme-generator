@@ -1,6 +1,6 @@
 export default function Meme () {
     return (
-        <div>
+        <div className="meme">
             <form className="form">
             <input type="text" id="fname" name="fname" placeholder="Top Text" className="form-input"/>
             <input type="text" id="lname" name="lname" placeholder="Bottom Text" className="form-input"/>
